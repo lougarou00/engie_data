@@ -1,1 +1,1 @@
-# engie_data
+# Projet d'IA qui consiste a predire la tranche de consommation d'un nouvel utilisateur en fonction de ses caractéristiques
